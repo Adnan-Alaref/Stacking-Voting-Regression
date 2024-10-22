@@ -1,1 +1,1 @@
-# Stacking-Voting-Regression
+# Stacking-Voting-Regression Notebook , The dataset used in this project is the Vehicle Dataset from CarDekho. It contains information about various vehicles, including features such as Car_Name, Year, Price, Fuel type, and more. This dataset will be used to build machine learning models for vehicle price prediction,or other automotive insights.
